@@ -1,0 +1,4 @@
+D:\Kuliah\Pemrograman C#\BaratayudaWar\BaratayudaWar\bin\Debug\BaratayudaWar.exe
+D:\Kuliah\Pemrograman C#\BaratayudaWar\BaratayudaWar\bin\Debug\BaratayudaWar.pdb
+D:\Kuliah\Pemrograman C#\BaratayudaWar\BaratayudaWar\obj\Debug\BaratayudaWar.exe
+D:\Kuliah\Pemrograman C#\BaratayudaWar\BaratayudaWar\obj\Debug\BaratayudaWar.pdb
