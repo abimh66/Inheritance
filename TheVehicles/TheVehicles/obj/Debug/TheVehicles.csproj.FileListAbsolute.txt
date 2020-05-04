@@ -1,0 +1,5 @@
+D:\Kuliah\Pemrograman C#\TheVehicles\TheVehicles\bin\Debug\TheVehicles.exe
+D:\Kuliah\Pemrograman C#\TheVehicles\TheVehicles\bin\Debug\TheVehicles.pdb
+D:\Kuliah\Pemrograman C#\TheVehicles\TheVehicles\obj\Debug\TheVehicles.csprojAssemblyReference.cache
+D:\Kuliah\Pemrograman C#\TheVehicles\TheVehicles\obj\Debug\TheVehicles.exe
+D:\Kuliah\Pemrograman C#\TheVehicles\TheVehicles\obj\Debug\TheVehicles.pdb
